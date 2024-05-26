@@ -11,7 +11,7 @@
 3. import csv file into SQL
 
 #### DAX Queries used
-1) IncomeGroup = SWITCH(
+IncomeGroup = SWITCH(
 TRUE(),
 'customer (2)'[Income] < 35000, "Low",
 'customer (2)'[Income] >= 35000 && 'customer (2)'[Income] <70000, "Med",
