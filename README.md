@@ -12,10 +12,9 @@
 
 #### DAX Queries used
 IncomeGroup = SWITCH(
-TRUE(),
-'customer (2)'[Income] < 35000, "Low",
-'customer (2)'[Income] >= 35000 && 'customer (2)'[Income] <70000, "Med",
-'customer (2)'[Income] >= 70000, "High",
-"unknown"
+               TRUE(),
+               'customer (2)'[Income] < 35000, "Low",
+               'customer (2)'[Income] >= 35000 && 'customer (2)'[Income] <70000, "Med",
+               'customer (2)'[Income] >= 70000, "High",
+                "unknown"
 )
-
