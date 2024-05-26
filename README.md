@@ -52,5 +52,6 @@ ALL('credit_card (1)'),
  + Male customer are contributing more revenue 31M ,female 25 M
  + Overall Activation rate 57.4%
  + Overall Delinquent rate 6.07%
- + 
+ +  Blue & Silver credit card are contributing to 93% of overall transaction.
+ +  TX,NY,CA is contributing to 68%
 
