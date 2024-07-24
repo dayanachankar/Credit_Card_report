@@ -1,5 +1,5 @@
 # Credit Card Financial Dashboard
-[rbl bank credit card](https://github.com/user-attachments/assets/0e27fe67-5b32-4439-9de2-2355c32623e7)
+(https://github.com/user-attachments/assets/0e27fe67-5b32-4439-9de2-2355c32623e7)
 ### About this Project
 
 #### Credit Card Transaction and Customer Report [Power BI | SQL]
